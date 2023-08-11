@@ -2,4 +2,4 @@
 Spring Data JPA CrudRepository findById()
 
 
-https://www.netsurfingzone.com/jpa/spring-data-jpa-crudrepository-finbyid/
+https://www.javatute.com/jpa/spring-data-jpa-crudrepository-finbyid/
